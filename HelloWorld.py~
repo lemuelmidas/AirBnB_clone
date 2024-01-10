@@ -1,3 +1,0 @@
-#!/usr/bin/Python3
-"""A hello world message"""
-print("Hello World!")
